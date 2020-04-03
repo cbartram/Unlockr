@@ -1,0 +1,7 @@
+# Default ignored files
+/workspace.xml
+*.xml
+*.iml
+.idea/
+.env
+.DS_STORE
