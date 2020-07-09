@@ -9,8 +9,8 @@ import (
 )
 
 const OAUTH_URL = "https://nestauthproxyservice-pa.googleapis.com/v1/issue_jwt"
-const API_KEY = "AIzaSyDEhJe34rLFv8dX4GnKdjjyP_311plkdpE"
-const BEARER_TOKEN = "ya29.a0Ae4lvC0p4usjMdR4C1nJ2FeX1t9J856PZGLU_8GlMxb4Aa4c4cnH5Gta0vtaLym17acMsFDLdFo5Is_KZhsSnlLjoQrJ23txMpsv6LUgQpV31WWLoPqg7Xbgmb81mWAFEwk1wa0-02TEEdb0TfEA92PZhslYWy1qCrI"
+const API_KEY = "<redacted>"
+const BEARER_TOKEN = "<redacted>"
 
 func main() {
 	client := &http.Client{}
